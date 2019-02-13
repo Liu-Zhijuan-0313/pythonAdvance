@@ -6,3 +6,7 @@ class Utils:
             return a
         else:
             return b
+
+    @staticmethod
+    def pow(a, b):
+        return a**b
