@@ -1,6 +1,7 @@
 """"
 多线程
 """
+# 1.在单进程单线程情况下 开启5次下载耗时操作需要5秒钟
 import time
 from threading import Thread
 
@@ -19,6 +20,8 @@ def singlethread():
     end = time.time()
     print("时间消耗", end - start)
 
+# 2.在单进程 5个线程情况下 开启5次下载 应为线程是并发 所以只需要一秒钟就可已
+
 
 def threadmain():
     prt()
@@ -32,7 +35,6 @@ def multithread():
         t1 = Thread(name="线程"+str(r), target=threadmain)
         t1.start()
         threadlist.append(t1)
-
         print(t1.name)
 
 
