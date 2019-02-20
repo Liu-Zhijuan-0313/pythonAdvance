@@ -39,8 +39,11 @@ def sayhi():
 
 print(threading.enumerate())
 
-
+start = time.time()
 for i in range(5):
     t1 = threading.Thread(target=sayhi)
     t1.start()
     print(threading.enumerate())
+
+end = time.time()
+print(end-start)
