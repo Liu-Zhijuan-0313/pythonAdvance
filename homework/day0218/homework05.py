@@ -1,6 +1,6 @@
 """
 fork只能在Linux上运行
-子进程返回0，父进程返回子进程的id
+子进程fork方法的返回0，父进程fork方法的返回子进程的pid
 当前进程：os.getpid()
 当前进程的父进程：os.getppid()
 """
