@@ -1,5 +1,5 @@
 """"
-hashlib加密模块
+4，hashlib加密模块
 """
 import hashlib
 password = input("请输入密码：")
