@@ -1,3 +1,10 @@
+"""
+1，新建1.py文件
+使用yield得到生成器
+创建列表，元组，字典，字符串，整形
+判断以上类型是否可以迭代，是否是迭代器
+如果是迭代器则使用next得到所有内容
+"""
 from collections.abc import Iterable
 from collections.abc import Iterator
 # 使用yield得到生成器
