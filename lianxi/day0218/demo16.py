@@ -72,3 +72,14 @@ class NPC(metaclass=mydesignclass):
 # 判断NPC类中是否有此属性
 print(hasattr(NPC, "npcspeed"))
 print(hasattr(NPC, "npcname"))
+
+
+
+"""
+
+1,使用关键字class创建NPC
+2，python解释器需要常见NPC之前 去NPC内部检查有没有metaclass属性
+3，检测到有metaclass属性则使用metaclass方法创建类
+4，比如需要重命名属性
+5，使用type将新类返回
+"""
