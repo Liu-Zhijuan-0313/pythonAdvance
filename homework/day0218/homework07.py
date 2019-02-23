@@ -1,3 +1,6 @@
+"""
+7，使用进程池制作阻塞、非阻塞创建进程案例
+"""
 from multiprocessing import Pool
 import time
 import os
