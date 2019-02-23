@@ -2,5 +2,22 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/Eat-apple-Game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/FlapPyBird" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/Gobang-Games" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/Mario-Level-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/PYGames" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/RealTime-DigitRecognition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/Tetracube" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/homework03/Eat-apple-Game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/homework03/FlapPyBird" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/homework03/Gobang-Games" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/homework03/Mario-Level-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/homework03/Tetracube" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/homework03/myPygame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/python-minigames" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/day0213/super-mario-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework/homework03/FlapPyBird" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework03/FlapPyBird" vcs="Git" />
   </component>
 </project>
